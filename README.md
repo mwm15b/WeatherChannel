@@ -13,8 +13,7 @@ Michael Meyers
 Using Apixu API to enhance a API-centric weather forecast web application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mwm15b.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
 1. An API-Centric web application is a web application that is functional through API calls.
